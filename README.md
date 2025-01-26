@@ -2,7 +2,7 @@ Hack 1 HTML_CCS
 
 Deiber Lucena
 
-Hacks H-1
+                                       Hacks H-1
 
  1. Crear el hack html mediante el uso de position relative / absolute ó modalidad libre
     - se prohibe el uso de float
